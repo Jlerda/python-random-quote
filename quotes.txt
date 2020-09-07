@@ -12,3 +12,7 @@ Favor focus over features
 Avoid administrative distraction
 Design for failure
 Keep it logically awesome
+In real open source you have the right to control your own destiny
+Software is like sex: it's better when it's free
+Microsoft isn't evil, they just make really crappy operating system
+Intelligence is the ability to avoid doing work, yet getting the work done
